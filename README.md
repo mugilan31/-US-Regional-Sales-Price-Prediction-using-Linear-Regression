@@ -1,4 +1,6 @@
-US Regional Sales Price Prediction using Linear Regression! This project delves into a US regional price dataset, employing linear regression, a powerful algorithm for uncovering relationships between variables and making predictions.
+US Regional Sales Price Prediction using Linear Regression! 
+
+This project delves into a US regional price dataset, employing linear regression, a powerful algorithm for uncovering relationships between variables and making predictions.
 
 Here's what's included:
 *Data Exploration: I analyzed the data to understand trends and patterns in regional prices.
